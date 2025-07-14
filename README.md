@@ -51,8 +51,8 @@ The project combines:
 ## 📎 Related Links
 
 - [My Website](https://sites.google.com/view/aneesharora/about)
-- [My Blog (BLP Series)](https://sites.google.com/view/aneesharora/blog)  
-- [LinkedIn](https://www.linkedin.com/in/aneesh-arora)
+<!-- - [My Blog (BLP Series)](https://sites.google.com/view/aneesharora/blog)   -->
+- [LinkedIn](www.linkedin.com/in/aneesharora)
 
 ---
 
