@@ -50,7 +50,7 @@ The project combines:
 
 ## 📎 Related Links
 
-- [My Website](https://sites.google.com/view/aneesharora/about)
+- [My Website](https://econaneesharora.com/)
 - [LinkedIn](https://www.linkedin.com/in/aneesharora)
 <!-- - [My Blog (BLP Series)](https://sites.google.com/view/aneesharora/blog)   -->
 
